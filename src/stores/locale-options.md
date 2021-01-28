@@ -22,7 +22,7 @@ The locale determines the language, country, tax rate, and other settings that a
 
 1. Set **Weight Unit** to the unit of measurement that is typically used for shipments from your locale.
 
-1. Set **First Day of the Week** to the day that is considered to be the first day of the week in your area.
+1. Set **First Day of Week** to the day that is considered to be the first day of the week in your area.
 
 1. In the **Weekend Days** list, select the days that fall on a weekend in your area.
 
