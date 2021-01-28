@@ -26,7 +26,7 @@ The Store Information section provides the basic information that appears on sal
 
     - Select the **Region/State** with the country.
 
-    - Enter the **Store Address**. If the address is long, continue the address on **Store Address Line 2**.
+    - Enter the **Street Address**. If the address is long, continue the address on **Street Address Line 2**.
 
     - If applicable, enter the **VAT Number** of your store. To verify the number, click the **Validate VAT Number** button. To learn more, see [VAT ID Validation]({% link tax/vat-validation.md %}).
 
