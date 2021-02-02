@@ -36,7 +36,7 @@ _Contact Us Page_
     ![General configuration - email options]({% link images/images/config-general-contacts-email-options.png %}){: .zoom}
     _Email Options_
 
-    - In the **Send Emails to** field, enter the email address where messages from the Contact Us form are sent.
+    - In the **Send Emails To** field, enter the email address where messages from the Contact Us form are sent.
 
     - Set **Email Sender** to the store identity that appears as the sender of the message from the Contact Us form. For example: Custom Email 2.
 
